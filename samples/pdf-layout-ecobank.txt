@@ -1,0 +1,54 @@
+ECOBANK NIGERIA - STATEMENT OF ACCOUNT (FAKE SAMPLE)
+Account Name: SAMPLE CUSTOMER   Account Number: 0000000000   Currency: NGN
+Period: 01-Jul-2026 to 03-Oct-2026
+
+Date                          Value Date    Narration                                  Debit               Credit              Balance
+------------------------------------------------------------------------------------------------------------------------------------------------------
+                                            Opening Balance                                                  620,000.00
+01-Jul-2026                   01-Jul-2026   SALARY JULY 2026 SAMPLE EMPLOYER LTD                      450,000.00          1,070,000.00
+02-Jul-2026                   02-Jul-2026   POS PURCHASE SHOPRITE LAFIA            18,500.00                              1,051,500.00
+03-Jul-2026                   03-Jul-2026   DSTV SUBSCRIPTION PAYMENT              14,500.00                              1,037,000.00
+03-Jul-2026                   03-Jul-2026   SMS ALERT CHARGES                          50.00                              1,036,950.00
+03-Jul-2026                   03-Jul-2026   VAT ON SMS CHARGES                          3.75                              1,036,946.25
+04-Jul-2026                   04-Jul-2026   NIP TRANSFER TO JOHN DOE/REF 12345    150,000.00                                886,946.25
+                                            PAYMENT FOR RENT SHARE JULY AND UTILITY
+                                            CONTRIBUTION AGREED
+09-Jul-2026 01:47             09-Jul-2026   POS PURCHASE LATE NIGHT SHAWARMA        4,500.00                                882,446.25
+15-Jul-2026                   15-Jul-2026   AIRTIME PURCHASE MTN                    2,000.00                                880,446.25
+01-Aug-2026                   01-Aug-2026   SALARY AUGUST 2026 SAMPLE EMPLOYER LTD                    450,000.00          1,330,446.25
+02-Aug-2026                   02-Aug-2026   ATM WITHDRAWAL LAFIA BRANCH            50,000.00                              1,280,446.25
+02-Aug-2026                   02-Aug-2026   NIP TRANSFER TO JANE ROE/REF 22871    200,000.00                              1,080,446.25
+03-Aug-2026                   03-Aug-2026   DSTV SUBSCRIPTION PAYMENT              14,500.00                              1,065,946.25
+03-Aug-2026                   03-Aug-2026   SMS ALERT CHARGES                          50.00                              1,065,896.25
+03-Aug-2026                   03-Aug-2026   VAT ON SMS CHARGES                          3.75                              1,065,892.50
+11-Aug-2026 02:33             11-Aug-2026   POS PURCHASE LATE NIGHT SHAWARMA        5,200.00                              1,060,692.50
+20-Aug-2026                   20-Aug-2026   ACCOUNT MAINTENANCE FEE                 1,000.00                              1,059,692.50
+
+                                                                 Page 1 of 2
+Ecobank Nigeria Limited is regulated by the Central Bank of Nigeria (fake sample).
+ECOBANK NIGERIA - STATEMENT OF ACCOUNT (FAKE SAMPLE)
+Account Name: SAMPLE CUSTOMER   Account Number: 0000000000   Currency: NGN
+Period: 01-Jul-2026 to 03-Oct-2026
+
+Date                          Value Date    Narration                                  Debit               Credit              Balance
+------------------------------------------------------------------------------------------------------------------------------------------------------
+                                            Brought forward                                                               1,059,692.50
+25-Aug-2026                   25-Aug-2026   NIP TRANSFER FROM ADA OKAFOR/REF 90817 25,000.00                              1,034,692.50
+01-Sep-2026                   01-Sep-2026   SALARY SEPTEMBER 2026 SAMPLE EMPLOYER LTD                 450,000.00          1,484,692.50
+02-Sep-2026                   02-Sep-2026   NIP TRANSFER TO JOHN DOE/REF 33410    250,000.00                              1,234,692.50
+03-Sep-2026                   03-Sep-2026   DSTV SUBSCRIPTION PAYMENT              14,500.00                              1,220,192.50
+03-Sep-2026                   03-Sep-2026   SMS ALERT CHARGES                          50.00                              1,220,142.50
+03-Sep-2026                   03-Sep-2026   VAT ON SMS CHARGES                          3.75                              1,220,138.75
+04-Sep-2026                   04-Sep-2026   POS PURCHASE SHOPRITE LAFIA            22,300.00                              1,197,838.75
+14-Sep-2026 03:05             14-Sep-2026   POS PURCHASE LATE NIGHT SHAWARMA        3,900.00                              1,193,938.75
+22-Sep-2026                   22-Sep-2026   ELECTRONIC MONEY TRANSFER LEVY             50.00                              1,193,888.75
+01-Oct-2026                   01-Oct-2026   SALARY OCTOBER 2026 SAMPLE EMPLOYER LTD                   450,000.00          1,643,888.75
+02-Oct-2026                   02-Oct-2026   NIP TRANSFER TO JOHN DOE/REF 44021    300,000.00                              1,343,888.75
+03-Oct-2026                   03-Oct-2026   DSTV SUBSCRIPTION PAYMENT              14,500.00                              1,329,388.75
+03-Oct-2026                   03-Oct-2026   SMS ALERT CHARGES                          50.00                              1,329,338.75
+03-Oct-2026                   03-Oct-2026   VAT ON SMS CHARGES                          3.75                              1,329,335.00
+------------------------------------------------------------------------------------------------------------------------------------------------------
+                                            Total                               1,090,665.00  1,800,000.00
+                                            Closing Balance                                                1,329,335.00
+
+                                                                 Page 2 of 2

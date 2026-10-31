@@ -1,0 +1,12 @@
+{
+  "name": "ghost-in-the-ledger",
+  "version": "1.0.0",
+  "description": "Paste your bank alerts and a local open-weight model haunts you with the money ghosts hiding in them.",
+  "private": true,
+  "license": "MIT",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test/*.test.js"
+  }
+}

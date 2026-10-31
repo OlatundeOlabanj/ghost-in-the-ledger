@@ -1,0 +1,135 @@
+# Demo alerts (USD): all names, numbers and banks are made up. Dates are month/day/year.
+
+Harbor Bank: You made a $15.49 purchase at NETFLIX.COM on 08/05/2026 at 6:02 AM. Avail bal $2,895.91.
+
+Blue Bottle Roasters: Card ending 4321 was charged $5.50 at BLUE BOTTLE COFFEE on 08/04/2026 at 8:12 AM.
+
+Card ending 4321 was charged $5.75 at BLUE BOTTLE COFFEE on 08/06/2026 at 8:20 AM.
+
+Card ending 4321 was charged $6.25 at BLUE BOTTLE COFFEE on 08/09/2026 at 8:41 AM.
+
+Northstar CU: Card ending 4321 was charged $11.99 at SPOTIFY USA on 08/12/2026 at 9:15 AM. Reply STOP to opt out.
+
+Harbor Bank: You made a $5.50 purchase at BLUE BOTTLE COFFEE on 08/14/2026 at 8:07 AM.
+
+Harbor Bank Alert: A $41.20 purchase was made at DOORDASH*TACO PALACE on 08/15/2026 at 12:48 AM.
+
+Card ending 4321 was charged $6.00 at BLUE BOTTLE COFFEE on 08/16/2026 at 8:33 AM.
+
+Harbor Bank: You made a $24.99 purchase at PLANET GYM 0432 on 08/20/2026 at 6:45 PM.
+
+Cash App: You paid $18.00 to @mike-r on 08/22/2026. Note: pizza night.
+
+Harbor Bank: You made a $5.75 purchase at BLUE BOTTLE COFFEE on 08/25/2026 at 8:15 AM.
+
+Harbor Bank: You made a $5.75 purchase at BLUE BOTTLE COFFEE on 08/28/2026 at 8:22 AM.
+
+Harbor Bank: A deposit of $2,850.00 from BRIGHTWAVE INC PAYROLL was made to your account ending 4321 on 08/31/2026. Avail bal $4,102.77.
+
+Harbor Bank: Rent paid. Zelle payment of $1,400.00 to MARCUS HOLT RENT on 09/01/2026 at 7:30 AM.
+
+Northstar CU: A payment of $900.00 was made to NORTHSTAR VISA CARD on 09/01/2026 at 11:02 AM.
+
+Harbor Bank: Your account ending 4321 was debited $89.99 for COMCAST CABLE on 09/02/2026. Avail bal $1,712.80.
+
+Harbor Bank: A $35.00 charge was posted to your account ending 4321 for Overdraft fee on 09/03/2026.
+
+Harbor Bank: You made a $15.49 purchase at NETFLIX.COM on 09/05/2026 at 6:01 AM.
+
+Pinewood Card: You spent $28.75 at UBER EATS on 09/05/2026 at 1:22 AM.
+
+Harbor Bank: Zelle: Jordan sent you $60.00 on 09/07/2026.
+
+Harbor Bank: You made a $5.50 purchase at BLUE BOTTLE COFFEE on 09/12/2026 at 8:19 AM.
+
+Northstar CU: Card ending 4321 was charged $11.99 at SPOTIFY USA on 09/12/2026 at 9:15 AM. Reply STOP to opt out.
+
+Harbor Bank: You made a $64.30 purchase at WHOLE HARVEST MARKET on 09/13/2026 at 5:40 PM.
+
+Harbor Bank: ATM withdrawal of $100.00 at CORNER ATM 55 on 09/14/2026 at 10:10 PM.
+
+Harbor Bank: A $3.50 charge was posted to your account ending 4321 for ATM fee on 09/14/2026.
+
+Harbor Bank: You made a $24.99 purchase at PLANET GYM 0432 on 09/20/2026 at 6:50 PM.
+
+Harbor Bank: You made a $76.99 purchase at AMZN MKTP US*2K4 on 09/19/2026 at 2:41 AM.
+
+Harbor Bank: Your account ending 4321 was debited $12.00 for Monthly service fee on 09/30/2026. Avail bal $644.18.
+
+Harbor Bank: A deposit of $2,850.00 from BRIGHTWAVE INC PAYROLL was made to your account ending 4321 on 09/30/2026.
+
+Cash App: You paid $22.50 to @dana-lee on 10/01/2026.
+
+Harbor Bank: Rent paid. Zelle payment of $1,400.00 to MARCUS HOLT RENT on 10/01/2026 at 7:32 AM.
+
+Harbor Bank: You made a $59.99 purchase at STEAM GAMES on 10/04/2026 at 3:05 AM.
+
+Harbor Bank: You made a $15.49 purchase at NETFLIX.COM on 10/05/2026 at 6:03 AM.
+
+Pinewood Card: You spent $5.75 at BLUE BOTTLE COFFEE on 10/07/2026 at 8:25 AM.
+
+Harbor Bank: You made a $1,899.00 purchase at APPLE STORE R123 on 10/10/2026 at 4:15 PM.
+
+Northstar CU: Card ending 4321 was charged $11.99 at SPOTIFY USA on 10/12/2026 at 9:16 AM. Reply STOP to opt out.
+
+Harbor Bank: You made a $1.89 purchase at ROMA PIZZA ABROAD on 10/14/2026. Foreign transaction fee of $1.89 applied.
+
+Harbor Bank: You made a $24.99 purchase at PLANET GYM 0432 on 10/20/2026 at 6:44 PM.
+
+Harbor Bank: You made a $5.50 purchase at BLUE BOTTLE COFFEE on 10/22/2026 at 8:09 AM.
+
+Harbor Bank: You made a $39.00 purchase at CITY ELECTRIC UTILITY on 10/24/2026 at 12:30 PM.
+
+Harbor Bank: Zelle: Priya paid you $45.00 on 10/25/2026.
+
+Harbor Bank: You made a $18.40 purchase at SHELL OIL 5742 on 08/18/2026 at 5:55 PM.
+
+Harbor Bank: A $29.99 refund from AMZN MKTP US was credited to your account ending 4321 on 09/09/2026.
+
+Harbor Bank: Your account ending 4321 was debited $15.00 for Outgoing wire fee on 09/25/2026.
+
+Harbor Bank: Interest of $0.42 was credited to your account ending 4321 on 09/30/2026.
+
+Harbor Bank: A $1.89 charge was posted to your account ending 4321 for Foreign transaction fee on 10/14/2026.
+
+Harbor Bank: You made a $22.15 purchase at TRADER JOES 118 on 10/16/2026 at 7:10 PM.
+
+From: Harbor Bank Alerts <alerts@harborbank.example>
+Subject: A $12.00 charge was posted to your account
+Date: Sat, 31 Oct 2026 07:00:00 -0400
+
+Hi Alex,
+
+A $12.00 charge was posted to your account ending 4321.
+
+Description: Monthly service fee
+Amount: $12.00
+Date: Oct 31, 2026
+
+Thanks for banking with Harbor.
+
+From: Pinewood Card <no-reply@pinewoodcard.example>
+Subject: You made a $38.50 purchase with your card ending in 9087
+Date: Thu, 15 Oct 2026 00:41:09 -0400
+
+Hello Alex,
+
+Merchant: DOORDASH*GREEN BOWL
+Amount: $38.50
+Date: Oct 15, 2026 12:40 AM
+
+If you did not make this purchase, call the number on the back of your card.
+
+From: Harbor Bank Alerts <alerts@harborbank.example>
+Subject: Direct deposit received
+Date: Fri, 30 Oct 2026 06:30:00 -0400
+
+Hi Alex,
+
+A direct deposit was received.
+
+Amount: $2,850.00
+Description: BRIGHTWAVE INC PAYROLL
+Date: 10/30/2026
+
+Have a great day.

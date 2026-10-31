@@ -1,0 +1,209 @@
+# Demo alerts: all names, numbers and banks are made up.
+
+Acct:***4821 Debit Alert NGN2,500.00 Desc: POS/MAMA CASS BUKA YABA Date:03-Aug-26 13:05 Bal:NGN182,500.00
+
+Sunrise: N1,800.00 debited from A/c ***4821 for POS/MAMA CASS BUKA YABA on 2026-08-09 13:20. Avail Bal: N173,100.00
+
+Acct: ***4821, Debit Alert, NGN 1,300.00, Desc: TUNEBOX PREMIUM, Date: 12-Aug-2026 09:03, Bal: NGN 171,800.00
+
+Acct:***4821 Debit Alert NGN6,500.00 Desc: POS/NITEBITES SHAWARMA LEKKI Date:15-Aug-26 01:12 Bal:NGN165,300.00
+
+Acct:***4821 Debit Alert NGN3,200.00 Desc: POS/MAMA CASS BUKA YABA Date:17-Aug-26 12:48 Bal:NGN162,100.00
+
+Sunrise: N1,500.00 credited to A/c ***4821 for REVERSAL FAILED POS TXN on 2026-08-20 10:05. Avail Bal: N163,600.00
+
+Sunrise: N5,000.00 debited from A/c ***4821 for WINBIG BETTING NG on 2026-08-23 02:47. Avail Bal: N158,600.00
+
+Sunrise Bank Credit Alert
+Acct: ***4821
+Amt: NGN 450,000.00
+Desc: SALARY AUG 2026 BRIGHTWAVE LTD
+Date: 28-Aug-2026 08:30
+Bal: NGN 596,100.00
+
+Acct:***4821 Debit Alert NGN50.00 Desc: STAMP DUTY CHARGE Date:28-Aug-26 08:30 Bal:NGN596,050.00
+
+Sunrise Bank Debit Alert
+Acct: ***4821
+Amt: NGN 150,000.00
+Desc: TRF TO LANDLORD EMEKA RENT
+Date: 28-Aug-2026 17:40
+Bal: NGN 446,050.00
+
+Acct:***4821 Debit Alert NGN85,000.00 Desc: POS/SHOPRIGHT MALL IKEJA Date:29-Aug-26 20:10 Bal:NGN361,050.00
+
+Sunrise Bank Debit Alert
+Acct: ***4821
+Amt: NGN 180,000.00
+Desc: TRF TO OKAFOR FAMILY
+Date: 30-Aug-2026 11:05
+Bal: NGN 181,050.00
+
+Acct:***4821 Debit Alert NGN56.00 Desc: SMS ALERT FEE AUG 2026 Date:31-Aug-26 06:00 Bal:NGN180,994.00
+
+Acct:***4821 Debit Alert NGN4.20 Desc: VAT ON SMS ALERT FEE Date:31-Aug-26 06:00 Bal:NGN180,989.80
+
+Acct:***4821 Debit Alert NGN50.00 Desc: ACCOUNT MAINTENANCE FEE AUG Date:31-Aug-26 06:01 Bal:NGN180,939.80
+
+Acct:***4821 Debit Alert NGN3.75 Desc: VAT ON ACCOUNT MAINTENANCE FEE Date:31-Aug-26 06:01 Bal:NGN180,936.05
+
+Sunrise Bank Debit Alert
+Acct: ***4821
+Amt: NGN 20,000.00
+Desc: TRF TO ADE FAMILY
+Date: 01-Sep-2026 10:15
+Bal: NGN 160,936.05
+
+Acct:***4821 Debit Alert NGN2,200.00 Desc: POS/MAMA CASS BUKA YABA Date:02-Sep-26 13:15 Bal:NGN158,736.05
+
+Sunrise: N2,900.00 debited from A/c ***4821 for POS/MAMA CASS BUKA YABA on 2026-09-08 19:40. Avail Bal: N151,436.05
+
+Acct: ***4821, Credit Alert, NGN 25,000.00, Desc: TRANSFER FROM TOLU ADEBAYO, Date: 09-Sep-2026 17:22, Bal: NGN 176,436.05
+
+Acct: ***4821, Debit Alert, NGN 1,300.00, Desc: TUNEBOX PREMIUM, Date: 12-Sep-2026 09:03, Bal: NGN 170,136.05
+
+Acct:***4821 Debit Alert NGN1,500.00 Desc: POS/MAMA CASS BUKA YABA Date:15-Sep-26 13:02 Bal:NGN168,636.05
+
+Acct: ***4821, Debit Alert, NGN 50,000.00, Desc: TRF TO KEMI THRIFT COLLECTION, Date: 17-Sep-2026 16:40, Bal: NGN 118,636.05
+
+Acct:***4821 Debit Alert NGN10,000.00 Desc: WINBIG BETTING NG Date:20-Sep-26 01:47 Bal:NGN108,636.05
+
+Acct:***4821 Debit Alert NGN3,500.00 Desc: POS/MAMA CASS BUKA YABA Date:22-Sep-26 13:30 Bal:NGN105,136.05
+
+Sunrise Bank Credit Alert
+Acct: ***4821
+Amt: NGN 450,000.00
+Desc: SALARY SEP 2026 BRIGHTWAVE LTD
+Date: 28-Sep-2026 08:30
+Bal: NGN 546,436.05
+
+Acct:***4821 Debit Alert NGN50.00 Desc: STAMP DUTY CHARGE Date:28-Sep-26 08:30 Bal:NGN546,386.05
+
+Sunrise Bank Debit Alert
+Acct: ***4821
+Amt: NGN 120,000.00
+Desc: TRF TO LANDLORD EMEKA RENT
+Date: 28-Sep-2026 19:15
+Bal: NGN 426,386.05
+
+Sunrise: N95,000.00 debited from A/c ***4821 for POS/SHOPRIGHT MALL IKEJA on 2026-09-29 13:30. Avail Bal: N331,386.05
+
+Acct:***4821 Debit Alert NGN60.00 Desc: SMS ALERT FEE SEP 2026 Date:30-Sep-26 06:00 Bal:NGN331,326.05
+
+Acct:***4821 Debit Alert NGN4.50 Desc: VAT ON SMS ALERT FEE Date:30-Sep-26 06:00 Bal:NGN331,321.55
+
+Acct:***4821 Debit Alert NGN50.00 Desc: ACCOUNT MAINTENANCE FEE SEP Date:30-Sep-26 06:01 Bal:NGN331,271.55
+
+Acct:***4821 Debit Alert NGN3.75 Desc: VAT ON ACCOUNT MAINTENANCE FEE Date:30-Sep-26 06:01 Bal:NGN331,267.80
+
+Sunrise Bank Debit Alert
+Acct: ***4821
+Amt: NGN 200,000.00
+Desc: TRF TO OKAFOR FAMILY
+Date: 30-Sep-2026 22:02
+Bal: NGN 131,267.80
+
+Sunrise: N2,000.00 debited from A/c ***4821 for POS/MAMA CASS BUKA YABA on 2026-10-03 13:10. Avail Bal: N129,267.80
+
+Acct: ***4821, Debit Alert, NGN 4,800.00, Desc: POS/NITEBITES SHAWARMA LEKKI, Date: 04-Oct-2026 02:15, Bal: NGN 124,467.80
+
+Sunrise Bank Debit Alert
+Acct: ***4821
+Amt: NGN 10,000.00
+Desc: TRF TO TOBI
+Date: 08-Oct-2026 11:11
+Bal: NGN 110,067.80
+
+Acct:***4821 Debit Alert NGN2,700.00 Desc: POS/MAMA CASS BUKA YABA Date:10-Oct-26 13:25 Bal:NGN107,367.80
+
+Acct: ***4821, Debit Alert, NGN 1,300.00, Desc: TUNEBOX PREMIUM, Date: 12-Oct-2026 09:04, Bal: NGN 106,067.80
+
+Acct: ***4821, Debit Alert, NGN 30,000.00, Desc: TRF TO BOLA SCHOOL FEES, Date: 15-Oct-2026 15:30, Bal: NGN 76,067.80
+
+Acct:***4821 Debit Alert NGN1,900.00 Desc: POS/MAMA CASS BUKA YABA Date:17-Oct-26 12:55 Bal:NGN74,167.80
+
+Sunrise: N3,000.00 debited from A/c ***4821 for WINBIG BETTING NG on 2026-10-18 02:58. Avail Bal: N71,167.80
+
+Acct:***4821 Debit Alert NGN52.00 Desc: SMS ALERT FEE OCT 2026 Date:22-Oct-26 06:00 Bal:NGN64,715.80
+
+Acct:***4821 Debit Alert NGN3.90 Desc: VAT ON SMS ALERT FEE Date:22-Oct-26 06:00 Bal:NGN64,711.90
+
+Acct:***4821 Debit Alert NGN50.00 Desc: ACCOUNT MAINTENANCE FEE OCT Date:22-Oct-26 06:01 Bal:NGN64,661.90
+
+Acct:***4821 Debit Alert NGN3.75 Desc: VAT ON ACCOUNT MAINTENANCE FEE Date:22-Oct-26 06:01 Bal:NGN64,658.15
+
+Sunrise Bank Credit Alert
+Acct: ***4821
+Amt: NGN 450,000.00
+Desc: SALARY OCT 2026 BRIGHTWAVE LTD
+Date: 25-Oct-2026 08:30
+Bal: NGN 514,658.15
+
+Acct:***4821 Debit Alert NGN50.00 Desc: STAMP DUTY CHARGE Date:25-Oct-26 08:30 Bal:NGN514,608.15
+
+Sunrise Bank Debit Alert
+Acct: ***4821
+Amt: NGN 140,000.00
+Desc: TRF TO LANDLORD EMEKA RENT
+Date: 25-Oct-2026 18:20
+Bal: NGN 374,608.15
+
+Acct:***4821 Debit Alert NGN110,000.00 Desc: POS/SHOPRIGHT MALL IKEJA Date:26-Oct-26 12:45 Bal:NGN264,608.15
+
+Sunrise Bank Debit Alert
+Acct: ***4821
+Amt: NGN 160,000.00
+Desc: TRF TO OKAFOR FAMILY
+Date: 27-Oct-2026 09:50
+Bal: NGN 104,608.15
+
+Some spends I noted by hand:
+
+2026-08-07 Bolt ride Lekki 3,200.00 DR
+2026-08-26 Fuel Total Ikeja 12,500.00 DR
+2026-09-11 MTN airtime 5,000.00 DR
+
+2026-09-25 Medplus pharmacy 8,700.00 DR
+2026-10-20 Supermart groceries 6,400.00 DR
+
+From: Sunrise Bank Alerts <alerts@sunrisebank.example>
+To: demo.user@example.com
+Subject: Sunrise Bank Debit Alert
+Date: Wed, 05 Aug 2026 14:22:07 +0100
+
+Dear Customer,
+A debit transaction occurred on your account.
+Acct: ***4821
+Amt: NGN 4,400.00
+Desc: NFLX*STREAMBOX LAGOS NG
+Date: 05-Aug-2026 14:22
+Bal: NGN 178,100.00
+Thank you for banking with Sunrise Bank.
+
+From: Sunrise Bank Alerts <alerts@sunrisebank.example>
+To: demo.user@example.com
+Subject: Sunrise Bank Debit Alert
+Date: Sat, 05 Sep 2026 14:21:07 +0100
+
+Dear Customer,
+A debit transaction occurred on your account.
+Acct: ***4821
+Amt: NGN 4,400.00
+Desc: NFLX*STREAMBOX LAGOS NG
+Date: 05-Sep-2026 14:21
+Bal: NGN 154,336.05
+Thank you for banking with Sunrise Bank.
+
+From: Sunrise Bank Alerts <alerts@sunrisebank.example>
+To: demo.user@example.com
+Subject: Sunrise Bank Debit Alert
+Date: Mon, 05 Oct 2026 14:22:07 +0100
+
+Dear Customer,
+A debit transaction occurred on your account.
+Acct: ***4821
+Amt: NGN 4,400.00
+Desc: NFLX*STREAMBOX LAGOS NG
+Date: 05-Oct-2026 14:22
+Bal: NGN 120,067.80
+Thank you for banking with Sunrise Bank.

@@ -1,0 +1,53 @@
+SAMPLE BANK PLC - ACCOUNT STATEMENT (FAKE SAMPLE)
+Account Name: SAMPLE CUSTOMER   Currency: NGN
+
+Date                Description                           Withdrawals        Deposits          Balance
+--------------------------------------------------------------------------------------------------------------
+                    Opening Balance                                                  150,000.00
+25/06/2026          SALARY CREDIT FROM SAMPLE EMPLOYER                                380,000.00      530,000.00
+26/06/2026          POS 4411 SPAR MALL                              24,300.00                         505,700.00
+27/06/2026          STREAMFLIX MONTHLY SUBSCRIPTION                 6,800.00                          498,900.00
+27/06/2026          SMS NOTIFICATION FEE                            45.00                             498,855.00
+27/06/2026          VAT                                             3.38                              498,851.62
+28/06/2026          TRANSFER TO CHIDI NWOSU                         120,000.00                        378,851.62
+                    FOR SCHOOL FEES PART PAYMENT
+                    TERM ONE
+01/07/2026 01:20    POS 8120 LATE BITES                             3,200.00                          375,651.62
+05/07/2026          WEB PAYMENT JUMIA                               27,800.00                         347,851.62
+08/07/2026          CASH WITHDRAWAL ATM                             40,000.00                         307,851.62
+25/07/2026          SALARY CREDIT FROM SAMPLE EMPLOYER                                380,000.00      687,851.62
+26/07/2026          TRANSFER TO CHIDI NWOSU                         200,000.00                        487,851.62
+27/07/2026          STREAMFLIX MONTHLY SUBSCRIPTION                 6,800.00                          481,051.62
+27/07/2026          SMS NOTIFICATION FEE                            45.00                             481,006.62
+27/07/2026          VAT                                             3.38                              481,003.24
+28/07/2026 02:41    POS 8120 LATE BITES                             4,100.00                          476,903.24
+02/08/2026          STAMP DUTY CHARGE                               50.00                             476,853.24
+09/08/2026          AIRTIME TOPUP                                   1,500.00                          475,353.24
+
+                                             Page 1 of 2
+Sample Bank PLC is regulated by the Central Bank (fake sample).
+SAMPLE BANK PLC - ACCOUNT STATEMENT (FAKE SAMPLE)
+Account Name: SAMPLE CUSTOMER   Currency: NGN
+
+Date                Description                           Withdrawals        Deposits          Balance
+--------------------------------------------------------------------------------------------------------------
+                    Brought forward                                                                 475,353.24
+12/08/2026          TRANSFER FROM AMAKA ELI                                           30,000.00       505,353.24
+18/08/2026          POS 4411 SPAR MALL                              19,900.00                         485,453.24
+25/08/2026          SALARY CREDIT FROM SAMPLE EMPLOYER                                380,000.00      865,453.24
+26/08/2026          TRANSFER TO CHIDI NWOSU                         250,000.00                        615,453.24
+27/08/2026          STREAMFLIX MONTHLY SUBSCRIPTION                 6,800.00                          608,653.24
+27/08/2026          SMS NOTIFICATION FEE                            45.00                             608,608.24
+27/08/2026          VAT                                             3.38                              608,604.86
+29/08/2026 03:12    POS 8120 LATE BITES                             3,700.00                          604,904.86
+03/09/2026          ACCOUNT MAINTENANCE CHARGE                      1,000.00                          603,904.86
+06/09/2026          POS 4411 SPAR MALL                              21,400.00                         582,504.86
+25/09/2026          SALARY CREDIT FROM SAMPLE EMPLOYER                                380,000.00      962,504.86
+26/09/2026          TRANSFER TO CHIDI NWOSU                         220,000.00                        742,504.86
+27/09/2026          STREAMFLIX MONTHLY SUBSCRIPTION                 6,800.00                          735,704.86
+27/09/2026          SMS NOTIFICATION FEE                            45.00                             735,659.86
+--------------------------------------------------------------------------------------------------------------
+                    Total                                         964,340.14  1,550,000.00
+                    Closing Balance                                                  735,659.86
+
+                                             Page 2 of 2

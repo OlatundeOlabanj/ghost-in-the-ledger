@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ghost in the Ledger</title>
+<meta name="description" content="Give it a bank statement or a few alerts. It finds the forgotten subscriptions, hidden fees and vanishing paydays in your money, and tells their stories.">
+<meta name="color-scheme" content="dark">
+<meta name="theme-color" content="#0e0d0b">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip" href="#add">Skip to adding your statement</a>
+
+<aside class="meter" id="meter" aria-label="Ghost meter: what this app sent over the network">
+  <div class="meter-in wrap">
+    <p class="meter-readout" id="meter-readout" role="status">
+      <span class="m-item"><span class="m-dot" id="m-dot" aria-hidden="true"></span><span class="m-k">Outside calls</span> <b id="m-calls">0</b></span>
+      <span class="m-sep" aria-hidden="true">|</span>
+      <span class="m-item"><span class="m-k">Bytes sent out</span> <b id="m-bytes">0</b></span>
+      <span class="m-sep" aria-hidden="true">|</span>
+      <span class="m-item"><span class="m-k">Documents read on this computer</span> <b id="m-docs">0</b></span>
+      <span class="m-item m-local" id="m-local-wrap" hidden><span class="m-sep" aria-hidden="true">|</span><span class="m-k">Local calls on this computer</span> <b id="m-local">0</b></span>
+    </p>
+    <p class="meter-note" id="meter-note" hidden></p>
+  </div>
+</aside>
+
+<header class="top wrap">
+  <p class="brand"><span class="brand-mark" id="brand-mark" aria-hidden="true"></span>Ghost in the Ledger</p>
+  <p class="badge" id="badge" role="status"><span class="dot" id="badge-dot" aria-hidden="true"></span><span id="badge-text">Checking which model to use</span></p>
+</header>
+
+<main>
+  <section class="hero wrap" aria-labelledby="h1">
+    <div class="hero-copy">
+      <p class="eyebrow">A private money detective</p>
+      <h1 id="h1">Your money has ghosts.</h1>
+      <p class="lede">Give it a bank statement or a few alerts. It finds the forgotten subscriptions, hidden fees and vanishing paydays, then tells you what each one has quietly cost you.</p>
+      <p class="privacy" id="privacy">Everything is read on this computer. Your statement is never uploaded anywhere.</p>
+      <p class="hero-cta"><a class="btn primary" href="#add">Get started</a><a class="link" href="#demo">or try a demo</a></p>
+    </div>
+    <div class="hero-art" id="hero-art" aria-hidden="true"></div>
+  </section>
+
+  <section class="steps wrap" aria-labelledby="steps-h">
+    <h2 id="steps-h" class="sr-only">How to use it in three steps</h2>
+    <ol>
+      <li><span class="num" aria-hidden="true">1</span><h3>Get your statement or alerts</h3><p>From your bank app, email or SMS. A PDF or CSV statement is best. Copied alert messages work too.</p></li>
+      <li><span class="num" aria-hidden="true">2</span><h3>Add it here</h3><p>Drop the file into the box below, or paste the text. PDFs are read on your computer only.</p></li>
+      <li><span class="num" aria-hidden="true">3</span><h3>Meet your ghosts</h3><p>Each one is a pattern worth a look, with a short story and the exact lines behind it.</p></li>
+    </ol>
+  </section>
+
+  <section class="add wrap" id="add" aria-labelledby="add-h" tabindex="-1">
+    <div class="section-head">
+      <p class="eyebrow">Step 2</p>
+      <h2 id="add-h">Add your statement</h2>
+    </div>
+
+    <div class="drop" id="drop">
+      <input type="file" id="file" class="file-input" accept=".pdf,.csv,.txt,.eml,application/pdf,text/csv,text/plain,message/rfc822" aria-describedby="drop-hint">
+      <label for="file" class="drop-label" id="drop-label">
+        <span class="drop-icon" aria-hidden="true"><svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 16V4M7 9l5-5 5 5M4 15v4h16v-4"/></svg></span>
+        <span class="drop-title">Drop your file here, or <u>choose one</u></span>
+        <span class="drop-hint" id="drop-hint">PDF, CSV, TXT or EML. Up to 15 MB.</span>
+      </label>
+      <p class="drop-over" aria-hidden="true">Let go to read it</p>
+    </div>
+    <p class="file-chosen" id="file-chosen" hidden></p>
+
+    <div id="paste-slot"><div id="paste">
+    <div class="or" aria-hidden="true"><span>or paste text</span></div>
+    <label for="text" class="sr-only">Pasted alerts or statement text</label>
+    <textarea id="text" rows="6" spellcheck="false" placeholder="Paste bank alert emails, SMS messages or statement rows here. For example: You spent $12.99 at NETFLIX.COM"></textarea>
+    </div></div>
+
+    <div class="scan" id="scan" hidden>
+      <p class="scan-text" id="scan-text"></p>
+      <button type="button" class="btn" id="redact">Redact them in my text</button>
+      <p class="scan-sub" id="scan-sub">Redaction keeps the last 4 digits and does not change any amounts, dates or balances, so your totals stay the same.</p>
+    </div>
+
+    <details class="found" id="found" hidden>
+      <summary>Show the text I found</summary>
+      <p class="found-meta" id="found-meta"></p>
+      <div id="found-body"></div>
+    </details>
+
+    <div class="actions">
+      <button type="button" class="btn primary" id="go">Find my ghosts</button>
+      <button type="button" class="btn quiet" id="clear">Clear</button>
+    </div>
+    <div class="message" id="error" role="alert" hidden></div>
+
+    <details class="help">
+      <summary>Where do I find my statement?</summary>
+      <div class="help-body">
+        <p><strong>In your bank app.</strong> Open an account, look for Statements or Documents, and download a month as PDF or CSV. A few months gives the best picture.</p>
+        <p><strong>From alert emails.</strong> Open your bank alert emails, select the text, copy it and paste it into the box above. Several at once is fine.</p>
+        <p><strong>From SMS.</strong> Copy the debit and credit messages from your messages app and paste them in.</p>
+        <p class="note">PDFs are read on your computer only. If a PDF will not open, open it in your browser, press Ctrl+A then Ctrl+C, and paste it here.</p>
+      </div>
+    </details>
+
+    <div class="demo" id="demo">
+      <p class="demo-title">No statement handy? Try a demo</p>
+      <div class="demo-row" role="group" aria-label="Demo data sets">
+        <button type="button" class="btn" data-demo="us">US dollars</button>
+        <button type="button" class="btn" data-demo="uk">UK pounds</button>
+        <button type="button" class="btn" data-demo="ng">Nigerian naira</button>
+      </div>
+      <p class="demo-note">All demo data is made up.</p>
+    </div>
+  </section>
+
+  <section class="results wrap" id="results" aria-labelledby="res-h" aria-live="polite" aria-busy="false" hidden>
+    <div class="loading" id="loading" hidden>
+      <div class="loading-art" id="loading-art" aria-hidden="true"></div>
+      <p class="loading-title" id="loading-title">Looking through your ledger</p>
+      <p class="loading-sub" id="loading-sub">Writing the stories can take a minute on a laptop. You can wait here.</p>
+      <div class="bar" aria-hidden="true"><i></i></div>
+      <button type="button" class="btn quiet" id="stop">Stop</button>
+    </div>
+
+    <div id="out" hidden>
+      <div class="section-head">
+        <p class="eyebrow">Step 3</p>
+        <h2 id="res-h">Your ghosts</h2>
+      </div>
+      <p class="sum" id="sum"></p>
+      <dl class="stats" id="stats"></dl>
+      <details class="warn" id="warn" hidden><summary id="warn-sum"></summary><ul id="warn-list"></ul></details>
+      <ol class="ledger" id="ledger"></ol>
+      <p class="empty" id="empty" hidden>No ghosts here. Your money looks quiet, or there were too few lines to spot a pattern.</p>
+      <section class="cloud" id="cloud" aria-labelledby="cloud-h">
+        <h3 id="cloud-h" class="cloud-h">What a cloud app would have uploaded</h3>
+        <ul class="cloud-list" id="cloud-list"></ul>
+        <p class="cloud-end" id="cloud-end"></p>
+      </section>
+      <div class="tools">
+        <p class="who" id="who"></p>
+        <div class="tool-row">
+          <button type="button" class="btn" id="save">Save report (.md)</button>
+          <button type="button" class="btn" id="copy">Copy as text</button>
+          <button type="button" class="btn" id="print">Print or save as PDF</button>
+          <button type="button" class="btn quiet" id="again">Start over</button>
+        </div>
+        <p class="copied" id="copied" role="status"></p>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site wrap">
+  <p>Ghost in the Ledger is open source. It reads English-language statements and alerts from banks in many countries and currencies. The numbers always come from your own lines. A model only writes the stories, and any story that uses a number it was not given is replaced with a plain template.</p>
+  <p class="credit">Made by TJS Code</p>
+</footer>
+
+<script src="redact.js"></script>
+<script src="ghosts.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
